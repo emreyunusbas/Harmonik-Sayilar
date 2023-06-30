@@ -56,4 +56,4 @@ Daha fazla bilgi için ilgili Patika.dev profilimi ziyaret edebilirsiniz.
 
 ---
 
-Geliştirdiğimiz bu "Seri Toplamı" programının detaylı açıklamalarını ve kaynak kodunu incelemek için ilgili dosyalara göz atabilirsiniz.
+Geliştirdiğimiz bu "Harmonik Sayılar" programının detaylı açıklamalarını ve kaynak kodunu incelemek için ilgili dosyalara göz atabilirsiniz.
