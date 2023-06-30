@@ -1,4 +1,4 @@
-# Seri Toplamı
+# Harmonik Sayılar
 
 Bu repo, [Patika.dev](https://www.patika.dev/tr) üzerinden aldığımız Kodluyoruz Java 101 Eğitimi kapsamında geliştirdiğimiz "Seri Toplamı" programının kodlarını içermektedir.
 
